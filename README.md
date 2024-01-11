@@ -56,4 +56,4 @@ Visit the website: [Weather Dashboard](https://apri1mayrain.github.io/weather-da
 
 ## License
 
-MIT License - Copyright © 2024 april1mayrain
+MIT License - Copyright © 2024 AlokPrabhat
